@@ -1,4 +1,7 @@
-# Items, Inventory & Crafting
+---
+title: Items and Crafting
+description: The Escapists 2 - Items and Crafting system documentation
+---
 
 ## Overview
 

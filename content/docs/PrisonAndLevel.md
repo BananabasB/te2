@@ -1,4 +1,7 @@
-# Prison, Level & Map System
+---
+title: Prisons and Levels
+description: The Escapists 2 - Prisons and Levels system documentation
+---
 
 ## Overview
 
@@ -16,19 +19,19 @@ The Escapists 2 uses a layered floor-based prison system composed of **tile grid
 #### `PRISON_ENUM` — All built-in prison IDs
 | Value | ID | Notes |
 |-------|----|-------|
-| 1 | `Centre_Perks` | — |
-| 2 | `OldWestFort` | — |
-| 3 | `POW_Camp` | — |
-| 4 | `Space_Prison` | — |
-| 5 | `Gulag_Prison` | — |
-| 6 | `Oil_Rig` | — |
-| 7 | `Transport_Train` | — |
-| 8 | `Transport_Boat` | — |
-| 9 | `Transport_Plane` | — |
-| 10 | `Area_17` | — |
-| 11 | `Dictator` | — |
-| 12 | `GDC_Centre_Perks` | — |
-| 13 | `Tutorial` | — |
+| 1 | `Centre_Perks` | Centre Perks 2.0 |
+| 2 | `OldWestFort` | Rattlesnake Springs |
+| 3 | `POW_Camp` | K.A.P.O.W Camp |
+| 4 | `Space_Prison` | U.S.S Anomaly |
+| 5 | `Gulag_Prison` | Fort Tundra |
+| 6 | `Oil_Rig` | HMP Offshore |
+| 7 | `Transport_Train` | Cougar Creek Railroad |
+| 8 | `Transport_Boat` | HMS Orca |
+| 9 | `Transport_Plane` | Air Force Con |
+| 10 | `Area_17` | Area 17 |
+| 11 | `Dictator` | The Glorious Regime |
+| 12 | `GDC_Centre_Perks` | A specialised version of Centre Perks 2.0 used within the Game Developers' Conference. |
+| 13 | `Tutorial` | Precinct 17 |
 | 14–18 | `DLC02`–`DLC06` | DLC prisons |
 | 99 | `JamesTest` | Debug |
 | 100 | `AITest` | Debug |

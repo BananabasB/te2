@@ -1,4 +1,7 @@
-# Third-Party Library Inventory
+---
+title: Third-Party Libraries
+description: The Escapists 2 - Third-Party Libraries system documentation
+---
 
 Every external namespace found in the decompiled codebase, with a brief description of its role.
 

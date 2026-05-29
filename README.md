@@ -1,4 +1,7 @@
-# .
+---
+title: README
+description: The Escapists 2 - README system documentation
+---
 
 This is a Next.js application generated with
 [Create Fumadocs](https://github.com/fuma-nama/fumadocs).

@@ -1,4 +1,7 @@
-# Telemetry & Analytics System
+---
+title: Telemetry and Analytics
+description: The Escapists 2 - Telemetry and Analytics system documentation
+---
 
 ## Overview
 

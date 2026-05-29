@@ -1,4 +1,7 @@
-# Character & AI System
+---
+title: Characters and AI
+description: The Escapists 2 - Characters and AI system documentation
+---
 
 ## Overview
 

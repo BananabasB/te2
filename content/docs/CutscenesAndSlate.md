@@ -1,4 +1,7 @@
-# Cutscene System (Slate)
+---
+title: Cutscenes and Slate
+description: The Escapists 2 - Cutscenes and Slate system documentation
+---
 
 The Escapists 2 uses **Slate** by ParadoxNotion as its cutscene editor and runtime. This is a full timeline-based cinematic system baked directly into Unity's hierarchy. Below is a comprehensive reference of every class in the decompiled Slate namespace and the game-side extensions.
 

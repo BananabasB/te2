@@ -1,4 +1,7 @@
-# NodeCanvas Behaviour Tree Integration
+---
+title: Node Canvas AI
+description: The Escapists 2 - Node Canvas AI system documentation
+---
 
 The Escapists 2 uses **NodeCanvas** by ParadoxNotion for all AI behaviour. Every NPC's decision-making is driven by a behaviour tree with per-character-type custom tasks and decorators.
 

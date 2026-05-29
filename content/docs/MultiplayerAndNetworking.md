@@ -1,4 +1,7 @@
-# Multiplayer & Networking System
+---
+title: Multiplayer And Networking
+description: The Escapists 2 - Multiplayer And Networking system documentation
+---
 
 The multiplayer system is built on **Photon PUN 2** (specifically PUN 2.45) and provides a custom abstraction layer (`T17Net*`) over Photon's raw API. The architecture is split into three tiers:
 

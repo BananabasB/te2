@@ -1,4 +1,7 @@
-# The Escapists 2 — UI, Menus & HUD System Reference
+---
+title: UI and Menus
+description: The Escapists 2 - UI and Menus system documentation
+---
 
 > Source: `Assembly-CSharp/` (decompiled, global namespace).  
 > Base: `T17MonoBehaviour : MonoBehaviour` (wraps common T17 lifecycle).  

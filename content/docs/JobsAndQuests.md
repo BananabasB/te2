@@ -1,4 +1,7 @@
-# Jobs, Quests & Objectives System
+---
+title: Jobs and Quests
+description: The Escapists 2 - Jobs and Quests system documentation
+---
 
 ## Overview
 

@@ -1,4 +1,7 @@
-# Extensions & Helpers
+---
+title: Extensions and Helpers
+description: The Escapists 2 - Extensions and Helpers system documentation
+---
 
 ## Overview
 

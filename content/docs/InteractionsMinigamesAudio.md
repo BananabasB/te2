@@ -1,4 +1,7 @@
-# Interactions, Minigames & Audio System — The Escapists 2
+---
+title: Interactions, Minigames and Audio
+description: The Escapists 2 - Interactions, Minigames and Audio system documentation
+---
 
 ## Table of Contents
 

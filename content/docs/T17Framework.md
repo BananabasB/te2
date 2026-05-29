@@ -1,4 +1,7 @@
-# T17 Framework
+---
+title: T17Framework
+description: The Escapists 2 - T17Framework system documentation
+---
 
 ## Overview
 
