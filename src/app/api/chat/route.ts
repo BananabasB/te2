@@ -3,6 +3,7 @@ import { convertToModelMessages, stepCountIs, streamText, tool, type UIMessage }
 import { z } from 'zod';
 import { source } from '@/lib/source';
 import { Document, type DocumentData } from 'flexsearch';
+import { aiModel } from '@/lib/flags';
 
 interface CustomDocument extends DocumentData {
   url: string;
@@ -76,7 +77,7 @@ export async function POST(req: Request, ctx: RouteContext<"/api/chat">) {
   const reqJson = await req.json();
 
   const result = streamText({
-    model: openrouter.chat(process.env.OPENROUTER_MODEL ?? 'anthropic/claude-3.5-sonnet'),
+    model: openrouter.chat(await aiModel() ?? 'anthropic/claude-3.5-sonnet'),
     stopWhen: stepCountIs(5),
     tools: {
       search: searchTool,
