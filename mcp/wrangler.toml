@@ -1,0 +1,8 @@
+name = "te2-wiki"
+main = "src/index.js"
+compatibility_date = "2025-01-01"
+
+# account_id = "your-account-id"
+
+[dev]
+port = 8787

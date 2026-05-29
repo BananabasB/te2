@@ -1,0 +1,12 @@
+{
+  "name": "te2-wiki",
+  "version": "0.1.0",
+  "type": "module",
+  "private": true,
+  "dependencies": {
+    "hono": "^4.7.0"
+  },
+  "devDependencies": {
+    "wrangler": "^3.114.0"
+  }
+}
