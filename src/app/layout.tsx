@@ -1,11 +1,17 @@
 import { RootProvider } from 'fumadocs-ui/provider/next';
 import './global.css';
-import { IBM_Plex_Sans as Inter } from 'next/font/google';
 import { Analytics } from '@vercel/analytics/next';
+import type { Metadata } from 'next';
+import { IBM_Plex_Sans as Inter } from 'next/font/google';
+import { appName } from '@/lib/shared';
 
 const inter = Inter({
   subsets: ['latin'],
 });
+
+export const metadata: Metadata = {
+  title: appName,
+};
 
 export default function Layout({ children }: LayoutProps<'/'>) {
   return (
